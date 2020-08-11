@@ -45,38 +45,38 @@ HOST-SUFFIX,pingan.com.cn,Mainland
 HOST-KEYWORD,beplay,Mainland
 
 # > Blizzard
-USER-AGENT,hearthstone*,Mainland
-HOST,cdp.cloud.unity3d.com,Mainland
-HOST-SUFFIX,battle.net,Mainland
-HOST-SUFFIX,battlenet.com,Mainland
-HOST-SUFFIX,blizzard.com,Mainland
+#USER-AGENT,hearthstone*,Mainland
+#HOST,cdp.cloud.unity3d.com,Mainland
+#HOST-SUFFIX,battle.net,Mainland
+#HOST-SUFFIX,battlenet.com,Mainland
+#HOST-SUFFIX,blizzard.com,Mainland
 
 # > Microsoft
-USER-AGENT,Microsoft*,Mainland
-HOST-KEYWORD,microsoft,Mainland
-HOST-SUFFIX,ms,Mainland
-HOST-SUFFIX,bing.com,Mainland
-HOST-SUFFIX,bing.net,Mainland
-HOST-SUFFIX,hotmail.com,Mainland
-HOST-SUFFIX,live.com,Mainland
-HOST-SUFFIX,live.net,Mainland
-HOST-SUFFIX,microsofttranslator.com,Mainland
-HOST-SUFFIX,msauth.net,Mainland
-HOST-SUFFIX,msecnd.net,Mainland
-HOST-SUFFIX,msocdn.com,Mainland
-HOST-SUFFIX,msedge.net,Mainland
-HOST-SUFFIX,msn.com,Mainland
-HOST-SUFFIX,office.com,Mainland
-HOST-SUFFIX,office.net,Mainland
-HOST-SUFFIX,office365.com,Mainland
-HOST-SUFFIX,onenote.com,Mainland 
-HOST-SUFFIX,onenote.net,Mainland
-HOST-SUFFIX,outlook.com,Mainland
-HOST-SUFFIX,visualstudio.com,Mainland
-HOST-SUFFIX,windows.com,Mainland
-HOST-SUFFIX,windows.net,Mainland
-HOST-SUFFIX,xbox.com,Mainland
-HOST-SUFFIX,xboxlive.com,Mainland
+#USER-AGENT,Microsoft*,Mainland
+#HOST-KEYWORD,microsoft,Mainland
+#HOST-SUFFIX,ms,Mainland
+#HOST-SUFFIX,bing.com,Mainland
+#HOST-SUFFIX,bing.net,Mainland
+#HOST-SUFFIX,hotmail.com,Mainland
+#HOST-SUFFIX,live.com,Mainland
+#HOST-SUFFIX,live.net,Mainland
+#HOST-SUFFIX,microsofttranslator.com,Mainland
+#HOST-SUFFIX,msauth.net,Mainland
+#HOST-SUFFIX,msecnd.net,Mainland
+#HOST-SUFFIX,msocdn.com,Mainland
+#HOST-SUFFIX,msedge.net,Mainland
+#HOST-SUFFIX,msn.com,Mainland
+#HOST-SUFFIX,office.com,Mainland
+#HOST-SUFFIX,office.net,Mainland
+#HOST-SUFFIX,office365.com,Mainland
+#HOST-SUFFIX,onenote.com,Mainland 
+#HOST-SUFFIX,onenote.net,Mainland
+#HOST-SUFFIX,outlook.com,Mainland
+#HOST-SUFFIX,visualstudio.com,Mainland
+#HOST-SUFFIX,windows.com,Mainland
+#HOST-SUFFIX,windows.net,Mainland
+#HOST-SUFFIX,xbox.com,Mainland
+#HOST-SUFFIX,xboxlive.com,Mainland
 
 # > Prior
 HOST,client.amplifi.com,Mainland
@@ -84,7 +84,7 @@ HOST-SUFFIX,alphassl.com,Mainland
 HOST-SUFFIX,edu.cn,Mainland
 
 # > Steam
-HOST-SUFFIX,steamcontent.com,Mainland
+#HOST-SUFFIX,steamcontent.com,Mainland
 
 # > TeamViewer
 IP-CIDR,185.188.32.0/24,Mainland
